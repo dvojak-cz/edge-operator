@@ -13,8 +13,4 @@
       <PackageReference Include="Serilog.AspNetCore" Version="6.1.0" />
     </ItemGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\EdgeOperator.Models\EdgeOperator.Models.csproj" />
-    </ItemGroup>
-
 </Project>
