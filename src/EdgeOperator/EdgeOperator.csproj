@@ -8,4 +8,9 @@
         <LangVersion>latestmajor</LangVersion>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="KubeOps" Version="7.0.1" />
+      <PackageReference Include="Serilog.AspNetCore" Version="6.1.0" />
+    </ItemGroup>
+
 </Project>
