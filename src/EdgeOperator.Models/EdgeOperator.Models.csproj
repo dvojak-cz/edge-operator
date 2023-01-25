@@ -4,6 +4,8 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>Dvojak.K8S.EdgeOperator.Models</RootNamespace>
+        <LangVersion>latestmajor</LangVersion>
     </PropertyGroup>
 
 </Project>
