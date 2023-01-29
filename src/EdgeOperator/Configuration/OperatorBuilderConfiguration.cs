@@ -1,3 +1,6 @@
+using Dvojak.K8S.EdgeOperator.Controllers;
+using Dvojak.K8S.EdgeOperator.Entities;
+using Dvojak.K8S.EdgeOperator.Validators;
 using KubeOps.Operator;
 using Serilog;
 
