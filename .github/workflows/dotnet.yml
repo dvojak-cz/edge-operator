@@ -5,9 +5,9 @@ name: .NET generate k8s mainfests
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "ci" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "master", "ci" ]
   workflow_dispatch:
 
 jobs:
